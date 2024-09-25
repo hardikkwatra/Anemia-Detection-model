@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+body {
+    height: 100vh;
+    background-color: #090909;
+    opacity: 0.9;
+}
+
+.maroon-bg {
+    background-color: #cb203e;
+}
+
+.custom-navbar-height {
+    padding: 20px;
+}
+
+.container-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.black-txt {
+    color: black;
+}
+
+.cream {
+    background-color: #d18988;
+}
+
+.green {
+    background-color: #3b8ea5;
+}
+
+.pink {
+    background-color: #ffe4e2;
+}
+
+.josefin-fnt {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#submit-btn:hover {
+    background-color: #2ea9cb;
+}
